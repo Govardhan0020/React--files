@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "sree",
+      "email": "sree123@gmail.com",
+      "problem": " input data in text box",
+      "solution": "fixed by using some conditions "
+    },
+    {
+      "id": 2,
+      "name": "Raj",
+      "email": "rajraj123@gmail.com",
+      "problem": " input data in text box",
+      "solution": "fixed by using some conditions "
+    },
+    {
+      "id": 3,
+      "name": "Krislhna",
+      "email": "krishna321@gmail.com",
+      "problem": " input data in text box",
+      "solution": "fixed by using some conditions "
+    },
+    {
+      "id": 4,
+      "name": "gopal",
+      "email": "gopal341@gmail.com",
+      "problem": " input data in text box",
+      "solution": "fixed by using some conditions "
+    },
+    {
+      "id": 5,
+      "name": "Rama",
+      "email": "rama123@gmail.com",
+      "problem": " input data in text box",
+      "solution": "fixed by using some conditions "
+    },
+    {
+      "id": 6,
+      "name": "shivaji",
+      "email": "shivaji24@gmail.com",
+      "problem": " input data in text box",
+      "solution": "fixed by using some conditions "
+    }
+  ]
+}
