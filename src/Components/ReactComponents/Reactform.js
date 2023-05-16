@@ -45,6 +45,8 @@ export default function Reactform() {
       );
       setTogglebtn(false);
       setEditId(null);
+      setShowTable(true)
+      setShowForm(false)
       setData({
         name: ' ',
         problem: ' ',
@@ -164,7 +166,7 @@ export default function Reactform() {
         )}
       </div>
       <div>
-        {showTable && list && (
+        {showTable && list.length > 0   && (
           <div className="searchInput">
             <label> Search : </label>
             <input
